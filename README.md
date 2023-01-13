@@ -19,14 +19,33 @@ Welcome 😊👋
 
 ## Visuals 📷
 
+Home Page: 
 
-<!-- <img src = "client\public\images\book-engine.png" width = "600px"> -->
+<img src = "public/images/techblog1.png" width = "600px">
+
+<br>
+
+Login Page:
+
+<img src = "public/images/techblog2.png" width = "600px">
+
+<br>
+
+Dashboard: 
+
+<img src = "public/images/techblog3.png" width = "600px">
+
+<br>
+
+Post:
+
+<img src = "public/images/techblog4.png" width = "600px">
 
 <br>
 
 ## Deployment 👨‍💻
 
-This application is deployed using [Heroku](https://murmuring-journey-13535.herokuapp.com/)
+This application is deployed using [Heroku](https://immense-wildwood-14829.herokuapp.com/)
 
 ## License 🔑
 
